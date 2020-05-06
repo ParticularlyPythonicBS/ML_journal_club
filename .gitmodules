@@ -1,0 +1,6 @@
+[submodule "Presentation"]
+	path = Presentation
+	url = https://git.overleaf.com/5eab434c2b3e4100010ef3cb
+[submodule "hamiltonian-nn"]
+	path = hamiltonian-nn
+	url = git@github.com:ParticularlyPythonicBS/hamiltonian-nn.git
